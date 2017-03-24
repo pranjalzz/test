@@ -64,13 +64,11 @@ body{
 	margin-right: 0px;
 	padding: 10px;
 	margin-top: -20px;
-	background:#27ada6;
 	display:block;
+	height: 35px;
+	width: 175px;
 }
-.logo a{
-	font-size: 35px;
-	color: #E0E0E1;
-}
+
 .main-top h1{
 	text-align:center;
 	font-size:3em;
